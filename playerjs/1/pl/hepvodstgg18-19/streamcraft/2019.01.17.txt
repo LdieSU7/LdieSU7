@@ -1,0 +1,4 @@
+[
+{"title":"20190117_Hellyeahplay_SC (( Feudal Alloy, GRIS, My Time At Portia, Chasm, Rabi-Ribi Dead Sells ))_1","file":"[audio]http://bit.ly/2ShK3Ih,[360]http://bit.ly/2MmwGmt,[720]http://bit.ly/2ShK3bf,[1080]http://bit.ly/2PM8tYS","download":"http://bit.ly/2PM8tYS","id":"20190117sc1"},
+{"title":"20190117_Hellyeahplay_SC (( Feudal Alloy, GRIS, My Time At Portia, Chasm, Rabi-Ribi Dead Sells ))_2","file":"[audio]http://bit.ly/2Sgh1IX,[360]http://bit.ly/36XUpkG,[720]http://bit.ly/2Zg0aaJ,[1080]http://bit.ly/2sPMuY3","download":"http://bit.ly/2sPMuY3","id":"20190117sc2"}
+]

@@ -1,0 +1,18 @@
+[
+{"title":"Overlord Drama CD Vol. 2 (русские субтитры)","file":"[360]http://bit.ly/32ZIqAY,[720]http://bit.ly/2oj0ZRY","id":"0"},
+{"title":"CD 3 Overlord Blu-ray 2 Special - Voice Drama (русские субтитры)","file":"[360]http://bit.ly/31OI8ga,[720]http://bit.ly/350wrFc","id":"8"},
+{"title":"CD 6 Шоу должно продолжаться [qx] Overlord Drama CD 3 [Show Must Go On]","subtitle":"[ru]//zetlnd.github.io/oZk4HyOc5qv1m1/playerjs/1/pl/mp3/overlordNnakOASK1tggSZ/cd6/Subtitles01.RUS.ass,[en]//zetlnd.github.io/oZk4HyOc5qv1m1/playerjs/1/pl/mp3/overlordNnakOASK1tggSZ/cd6/Subtitles02.ENG.ass","file":"[360]http://bit.ly/2Oj6jzp,[720]http://bit.ly/2nhw9J4","id":"11"},
+{"title":"Overlord Blu-ray 3 Special - Voice Drama (русские субтитры)","file":"[360]http://bit.ly/2LP2uk6,[720]http://bit.ly/3597xDB","id":"9"},
+{"title":"Overlord Drama CD Том 1, трек 01 из 10 (русские субтитры)","file":"[360]http://bit.ly/2LKuANh,[720]http://bit.ly/333qINa","id":"14"},
+{"title":"Overlord Drama CD Том 1, трек 02 из 10 (русские субтитры)","file":"[360]http://bit.ly/336X89k,[720]http://bit.ly/31MEwv3","id":"13"},
+{"title":"Overlord Drama CD Том 1, трек 03 из 10 (русские субтитры)","file":"[360]http://bit.ly/2nmrq96,[720]http://bit.ly/2IofCue","id":"4"},
+{"title":"Overlord Drama CD Том 1, трек 04 из 10 (русские субтитры)","file":"[360]http://bit.ly/30M5oKr,[720]http://bit.ly/2njP6Ll","id":"7"},
+{"title":"Overlord Drama CD Том 1, трек 05 из 10 (русские субтитры)","file":"[360]http://bit.ly/30KsIs3","id":"3"},
+{"title":"Overlord Drama CD Том 1, трек 06 из 10 (русские субтитры)","file":"[360]http://bit.ly/2oiXGu2,[720]http://bit.ly/2VccvdY","id":"15"},
+{"title":"Overlord Drama CD Том 1, трек 07 из 10 (русские субтитры)","file":"[360]http://bit.ly/2LOxQqI,[720]http://bit.ly/2oPw9Au","id":"1"},
+{"title":"Overlord Drama CD Том 1, трек 08 из 10 (русские субтитры)","file":"[360]http://bit.ly/2OlBudF,[720]http://bit.ly/2IpboCv","id":"10"},
+{"title":"Overlord Drama CD Том 1, трек 09 из 10 (русские субтитры)","file":"[360]http://bit.ly/2Vd4qWB,[720]http://bit.ly/31Qa7vW","id":"5"},
+{"title":"Overlord Drama CD Том 1, трек 10 из 10 (русские субтитры)","file":"[360]http://bit.ly/2pOdgyr,[720]http://bit.ly/356HooS","id":"12"},
+{"title":"Overlord S2 Special Drama CD - Аинз зарабатывает деньги","file":"[360]http://bit.ly/2LLEMVz,[720]http://bit.ly/2Vg6q01,[1080]http://bit.ly/31PzNZU","id":"2"},
+{"title":"Чаепитие горничных Overlord Drama CD [Special Edition] [RUS,ENG]","subtitle":"[ru]//zetlnd.github.io/oZk4HyOc5qv1m1/playerjs/1/pl/mp3/overlordNnakOASK1tggSZ/cd2/Subtitles01.RUS.ass,[en]//zetlnd.github.io/oZk4HyOc5qv1m1/playerjs/1/pl/mp3/overlordNnakOASK1tggSZ/cd2/Subtitles02.ENG.ass","file":"[360]http://bit.ly/2OgXtSW,[720]http://bit.ly/355UdQd","id":"6"}
+]

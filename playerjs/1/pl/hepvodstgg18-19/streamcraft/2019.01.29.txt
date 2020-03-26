@@ -1,0 +1,6 @@
+[
+{"title":"20190129_Hellyeahplay_SC (( Hollow Knight ))_01","file":"[audio]http://bit.ly/2mlMT1m,[360]http://bit.ly/2nLrGy6,[720]http://bit.ly/2ndxss8,[1080]http://bit.ly/2nO0FtT","download":"http://bit.ly/2nO0FtT","id":"505"},
+{"title":"20190129_Hellyeahplay_SC (( Hollow Knight ))_02","file":"[audio]http://bit.ly/2nO0EWR,[360]http://bit.ly/2nUk3Wn,[720]http://bit.ly/2nfs3AP,[1080]http://bit.ly/2ndxtMI","download":"http://bit.ly/2ndxtMI","id":"506"},
+{"title":"20190129_Hellyeahplay_SC (( Hollow Knight ))_02","file":"[audio]http://bit.ly/2nd8o4E,[360]http://bit.ly/2mlpXiL,[720]http://bit.ly/2nUk3FR,[1080]http://bit.ly/2mlw86t","download":"http://bit.ly/2mlw86t","id":"507"},
+{"title":"20190129_Hellyeahplay_SC (( Hollow Knight ))_02","file":"[audio]http://bit.ly/2mlMThS,[360]http://bit.ly/2neUJdn,[720]http://bit.ly/2ndxro4,[1080]http://bit.ly/2lKHq40","download":"http://bit.ly/2lKHq40","id":"508"}
+]
